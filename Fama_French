@@ -12,7 +12,7 @@ oldmode = setvwrmode("many");
 print "Select a Country: 1 = The USA, 2 = The UK, 3 = Switzerland: ";;
 country = con(1,1);
 
-if(country==1);
+if(country==1); 
  crty="USA";
 elseif (country==2);
  crty="UK";
